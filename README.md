@@ -7,9 +7,7 @@ I'm a coding enthusiast currently honing my skills and building exciting project
 
 ## 🚀 About Me  
 - 💻 I love exploring and mastering web technologies.  
-- 🛠️ Previous Projects:  
-  - **Revive Cars** - A car services website.  
-  - **Global Bazar** - An e-commerce platform.  
+- 🛠️ I know react,express,tailwind,js  
 
 - 🛠️ Current Project:  
   Building a **Travel Agency/Tour Planner** website.  
@@ -21,7 +19,7 @@ I'm a coding enthusiast currently honing my skills and building exciting project
 ---
 
 ## 💡 What I’m Learning  
-- CSS Grid for creating dynamic layouts.  
+- nextjs,react js
 - Expanding my JavaScript and ReactJS knowledge.  
 
 ---
