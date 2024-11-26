@@ -29,10 +29,17 @@ Feel free to explore my repositories, contribute, or reach out for collaboration
 
 ---
 
-## 📊 Current Stats  
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=shakibchakladar&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" alt="GitHub Streak Stats" />
-</p>
+## 📊 current Stats  
+
+### 🔥 Current Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=shakibchakladar&theme=tokyonight_duo&hide_border=true&background=1F1D2B&stroke=FF9900&ring=FFD700&fire=FF4500&currStreakLabel=FF6347&sideLabels=1E90FF&currStreakNum=FFD700&sideNums=00CED1)](https://git.io/streak-stats)
+
+### 📈 Overall Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakibchakladar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F1D2B&title_color=FFD700&icon_color=FF4500)](https://github.com/anuraghazra/github-readme-stats)
+
+### 📚 Top Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shakibchakladar&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F1D2B&title_color=FFD700)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
