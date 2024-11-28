@@ -12,7 +12,7 @@ I'm a coding enthusiast currently honing my skills and building exciting project
 ---
 
 ## ⚽ Fun Fact  
-I Loves To Play And Watch Football 
+I Loves To Play And Watch Football. 
 
 ---
 
