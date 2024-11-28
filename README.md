@@ -4,7 +4,8 @@
 I'm a coding enthusiast currently honing my skills and building exciting projects. My goal is to join a software company where I can contribute to impactful solutions.  
 
 ---
-<img src="./Black Minimal Motivation Quote LinkedIn Banner.png"img>
+![Banner](./Black Minimal Motivation Quote LinkedIn Banner.png)
+
 
 ## 🛠️ Current Project  
 - Building a **Travel Agency/Tour Planner** website.  
