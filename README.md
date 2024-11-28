@@ -5,7 +5,10 @@ I'm a coding enthusiast currently honing my skills and building exciting project
 
 ---
 
-![Banner](./shakibchakladar/assets/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png)
+
+<p align="center">
+  <img src="./shakibchakladar/assets/Black Minimal Motivation Quote LinkedIn Banner.png" width="800" />
+</p>
 
 ## 🛠️ Current Project
 
