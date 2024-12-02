@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://i.ibb.co.com/T8nBDgf/Black-Minimal-Motivation-Quote-Linked-In-Banner.png" width="800" />
 </p>
-# 👋 Hi, I'm Md Shahariar Shakib Chakladar
+## 👋 Hi, I'm Md Shahariar Shakib Chakladar
 
 🌟 **Passionate Web Developer**  
 I'm a coding enthusiast currently honing my skills and building exciting projects. My goal is to join a software company where I can contribute to impactful solutions.
