@@ -35,12 +35,11 @@ I Loves To Play And Watch Football.
 Feel free to explore my repositories, contribute, or reach out for collaboration. Let’s build something awesome together! 🌟
 
 ---
-
-## 📊 current Stats
+## 📊 Current Stats
 
 ### 🔥 Current Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shakibchakladar&theme=tokyonight_duo&hide_border=true&background=1F1D2B&stroke=FF9900&ring=FFD700&fire=FF4500&currStreakLabel=FF6347&sideLabels=1E90FF&currStreakNum=FFD700&sideNums=00CED1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shakibchakladar&theme=tokyonight_duo&hide_border=true&background=1F1D2B&stroke=FF9900&ring=FFD700&fire=FF4500&currStreakLabel=FF6347&sideLabels=1E90FF&currStreakNum=FFD700&sideNums=00CED1&cache_seconds=0)](https://git.io/streak-stats)
 
 ### 📈 Overall Stats
 
